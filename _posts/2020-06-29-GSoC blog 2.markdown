@@ -1,0 +1,23 @@
+---
+yout: post
+title:  "Evaluation of coding period’s first phase"
+date:   2020-06-29 20:00 +0530
+categories: jekyll update
+---
+Hello, everyone! 
+
+I have reached the end of 1st coding period and it's time for the 1st evaluation. In these last weeks of 1st coding phase I worked on geojson2csv & hdf2csv conversion functions. I also learned about code formatting and style and also about using yapf and flake8 to make it easier to mantain the style of the code. I've opened PR for all the functions as specified in my proposal before the 1st evaluation. I'm modifying the code according to the review given by my mentors to make sure the code is upto standards. I'm also adding these functions to be used in `retriever autocreate` to autocreate scripts for testing these functions(Work in Progress).
+### Pull Requests made during this period
+* [PR#1486](https://github.com/weecology/retriever/pull/1486) - HDF5 file to csv files conversion function
+* [PR#1485](https://github.com/weecology/retriever/pull/1485) - GeoJSON file to csv file conversion function
+* [PR#1484](https://github.com/weecology/retriever/pull/1484) - Appveyor linters issue fix
+
+### Future Work
+ In the 2nd coding phase I will complete the PRs till they are good enough to be merged while working on further tasks which are 
+* Adding function for nc2csv(NetCDF) in [engine_tools.py](https://github.com/weecology/retriever/blob/e6c54e6d870d9611502469e38247ce9276c9c8e0/retriever/lib/engine_tools.py) 
+* Adding ingestion functions based on the functions added in [engine_tools.py](https://github.com/weecology/retriever/blob/e6c54e6d870d9611502469e38247ce9276c9c8e0/retriever/lib/engine_tools.py) earlier.
+* Testing, Debugging and Documentation of these function added in this period.
+ 
+I am communicating with my mentors through Gitter.
+
+Stay tuned for more blogs

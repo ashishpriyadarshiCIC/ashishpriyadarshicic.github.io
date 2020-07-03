@@ -1,0 +1,23 @@
+---
+yout: post
+title:  "First half of coding period’s first phase"
+date:   2020-06-14 20:00 +0530
+categories: jekyll update
+---
+Hello, everyone! 
+
+We have reached mid way of 1st coding period and things were in some way were not going as I planned as I was infected with COVID-19 but fortunately I recovered during the beginning of the coding period and have been on home quarintine since then, The quarintine period will also end tommorrow. I've made the PR for the work as I planned but still I will fix according to the changes suggested further by my mentors.
+### Pull Requests made during this period
+* [PR#1467](https://github.com/weecology/retriever/pull/1467) - Sqlite database file to csv files conversion function
+* [PR#1475](https://github.com/weecology/retriever/pull/1475) - Json file to csv file conversion function
+* [PR#1479](https://github.com/weecology/retriever/pull/1479) - XML file to csv file conversion function
+* [PR#1480](https://github.com/weecology/retriever/pull/1480) - Xlsx file to csv files conversion function
+
+### Future Work
+ The remainder of the two weeks of this month I will complete this PR to their final stage while working on further tasks which are 
+* Adding function for geojson2csv and hdf2csv in [enginetools.py](https://github.com/weecology/retriever/blob/e6c54e6d870d9611502469e38247ce9276c9c8e0/retriever/lib/engine_tools.py) 
+* Testing, Debugging and Documentation of these function added in this period
+ 
+I am communicating with my mentors through Gitter.
+
+Stay tuned for more blogs
