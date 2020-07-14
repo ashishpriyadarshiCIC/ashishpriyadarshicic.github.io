@@ -1,0 +1,20 @@
+---
+yout: post
+title:  "First Half of coding period’s second phase"
+date:   2020-07-12 20:00 +0530
+categories: jekyll update
+---
+Hello, everyone! 
+
+I have successfully passed the 1st evaluation. In the first 2 weeks of 2nd coding phase I worked on using these functions in scripts to make testing easier. This was something which was decided while having a meeting with my mentor. This PR was not planned when making the schedule but this is very important as this will help hugely when working on the ingestion functions. I'm modifying the code of the previous PRs according to the review given by my mentors to make sure the code is upto standards. 
+### Pull Requests made during this period
+* [PR#1494](https://github.com/weecology/retriever/pull/1494) - Use of functions in scripts to test added functions
+
+### Future Work
+ In the 2nd coding phase I'm working on completing the PRs till they are good enough to be merged while working on further tasks which are 
+* Adding ingestion functions based on the functions added in [engine_tools.py](https://github.com/weecology/retriever/blob/e6c54e6d870d9611502469e38247ce9276c9c8e0/retriever/lib/engine_tools.py) earlier.
+* Testing, Debugging and Documentation of these function added in this period.
+ 
+I am communicating with my mentors through Gitter.
+
+Stay tuned for more blogs
