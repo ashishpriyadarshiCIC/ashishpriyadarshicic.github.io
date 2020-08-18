@@ -1,0 +1,20 @@
+---
+yout: post
+title:  "First Half of coding period’s final phase"
+date:   2020-08-09 20:00 +0530
+categories: jekyll update
+---
+Hello, everyone! 
+
+I have successfully passed the 2nd evaluation. In the first 2 weeks of final coding phase I worked on making tests for the functions created. We are deciding on the tests for GeoJSON to csv conversion function as it is using a module which is not working in Travis CI. I'm modifying the code of the previous PRs according to the review given by my mentors to make sure the code is upto standards. 
+### Pull Requests made during this period
+* [PR#1509](https://github.com/weecology/retriever/pull/1509) - NetCDF to csv conversion function
+
+### Future Work
+ In the final coding phase I'm working on completing the PRs till they are good enough to be merged while working on further tasks which are 
+* Completing NetCDF to csv conversion function.
+* Testing, Debugging and Documentation of these function added in this period.
+ 
+I am communicating with my mentors through Gitter.
+
+Stay tuned for more blogs
