@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Hello, everyone! 
 
-I have reached the end of 2nd coding period and it's time for the 2nd evaluation. In these last weeks of 2nd coding phase I worked on changing the old functions so that they now work successfully.. I also started using PyCharm again after a long time for debugging. I've opened PR for all the functions as specified in my proposal before the 2nd evaluation except the one about creating NetCDF to csv conversion as there were some issues. I'm modifying the code according to the review given by my mentors to make sure the code is upto standards. I've added these functions to be used in `retriever autocreate` to autocreate scripts for testing these functions except the NetCDF one.
+I have reached the end of 2nd coding period and it's time for the 2nd evaluation. In these last weeks of 2nd coding phase I worked on changing the old functions so that they now work successfully. I also started using PyCharm again after a long time for debugging. I've opened PR for all the functions as specified in my proposal before the 2nd evaluation except the one about creating NetCDF to csv conversion as there were some issues. I'm modifying the code according to the review given by my mentors to make sure the code is upto standards. I've added these functions to be used in `retriever autocreate` to autocreate scripts for testing these functions except the NetCDF one.
 ### Pull Requests made during this period
 * [PR#1507](https://github.com/weecology/retriever/pull/1507) - json to csv file conversion function through scripts
 * [PR#1506](https://github.com/weecology/retriever/pull/1506) - XML to csv file conversion function through scripts
